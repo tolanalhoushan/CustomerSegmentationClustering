@@ -19,6 +19,6 @@ Mall_Customers.csv
 
 4- Results and Insights: The model successfully clustered the customers into 5 distinct groups,while demonstrating differences such as "Younger, Low-income , High-Spending Score" or " Older, High-income, Low-Spending Score".
 
-#Acknowledgements
+# Acknowledgements
 Special Thanks to Abbas Ali and Kaggle for providing the dataset and instructions for this project
   
